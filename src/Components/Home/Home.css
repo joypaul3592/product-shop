@@ -1,0 +1,23 @@
+.img-container{
+    width: 50%;
+}
+.text-info{
+    width: 50%;
+}
+.home-container{
+    padding:5% 8% ;
+    display: flex;
+}
+
+@media only screen and (max-width: 991px) {
+    .home-container{
+        display: block;
+    }
+    .img-container{
+        width: 100%;
+        margin-top: 5%;
+    }
+    .text-info{
+        width: 100%;
+    }
+  }

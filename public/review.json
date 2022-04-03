@@ -1,0 +1,83 @@
+[
+    {
+        "id": "1",
+        "name": "Robbie Hewitt",
+        "rating":"4.5",
+        "email": "robbiehewitt@sultraxin.com",
+        "picture": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "comment":"Excellent Customer Service. A professional company that goes extra lengths to ease things for the customers."
+    },
+    {
+        "id": "2",
+        "name": "Ervin Howell",
+        "rating":"4",
+        "email": "Shanna@melissa.tv",
+        "picture": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "comment":"I contacted Caught On Camera after my Parents has been broken into which was a very violent and traumatic ordeal. I had rung round and spoke with 5 other companies, the professionalism from Jay was very clear from the outset that this was the company to make my parents feel safe in their own home again. Matt, Adam and Billy, turned up the next day to install the security cameras, the workmanship is a credit to your company and really how each individual just cracked on and made such a neat and professional job. "
+    },
+    {
+        "id": "3",
+        "name": "Clementine Bauch",
+        "rating":"5",
+        "email": "Nathan@yesenia.net",
+        "picture": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dXNlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "comment":"I contacted Caught on Camera recently, they promptly gave me an appointment , Matt explain clearly what he was going to do. The following week Matt and Adam came on time, install the equipment the same day, it was very tidy and neat, they train me how to use the equipment. They are very professional and I wouldn't hesitate to recommend them. The quality of the picture is very clear and the system is friendly. Thank you . Laurence"
+    },
+    {
+        "id": "4",
+        "name": "Patricia Lebsack",
+        "rating":"4.5",
+        "email": "Julianne.OConner@kory.org",
+        "picture": "https://images.unsplash.com/photo-1499887142886-791eca5918cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "comment":"Caught on Camera installed my home security cameras yesterday. Matt and his colleague turned up at the time they said they would and installed the equipment in a timely manner. The installation was neat and tidy and cleared up completely. Top job and we are very happy either the result and would not hesitate to recommend to others."
+    },
+    {
+        "id": "5",
+        "name": "Clementina DuBuque",
+        "rating":"3.5",
+        "email": "Lucio_Hettinger@annie.ca",
+        "picture": "https://images.unsplash.com/photo-1639149888905-fb39731f2e6c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "comment":"Just installed new cameras around the house, Bill and  Shev were very good, professional and friendly - they did not rush and took time to explain and made sure everything was 100% before they left - Jason was also always on hand to give answers to any questions well done everyone !"
+    },
+    {
+        "id": "6",
+        "name": "Dennis Schulist",
+        "rating":"4",
+        "email": "Karley_Dach@jasper.info",
+        "picture": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "comment":"A very Professional, Jay advised me regarding the specification, equipment was delivered as ordered and on time. Matt and Adam installed it and spent a lot of time training me regarding the capability. They were in no rush to leave. Excellent company. courteous and reliable. Tidy workmanship with attention to detail from the start. They delivered everything as specified. I don’t often recommend but in this instance it is entirely deserved. Many thanks to the team, both front and back of house."
+    },
+    {
+        "id": "7",
+        "name": "Chelsey Dietrich",
+        "rating":"4.5",
+        "email": "Lucio_Hettinger@annie.ca",
+        "picture": "https://images.unsplash.com/photo-1563237023-b1e970526dcb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTV8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "comment":"Professional, courteous and reliable. Tidy workmanship with attention to detail from the start. They delivered everything as specified. I don’t often recommend but in this instance it is entirely deserved. Many thanks to the team, both front and back of house."
+    },
+    {
+        "id": "8",
+        "name": "Kurtis Weissnat",
+        "rating":"5",
+        "email": "Telly.Hoeger@billy.biz",
+        "picture": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDd8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "comment":"A few days ago we have upgraded 9 cctv cameras in our community center with Caught on camera's team. The work was very neat and tidy, once everything was installed they took us through the system set up to make sure we knew how to work the system before leaving. The team were very professional, polite and helpful. The picture quality of the camera's is 1st class. Very satisfied with the end result. Would highly recommend CaughtOnCamera."
+    },
+    {
+        "id": "9",
+        "name": "Nicholas Runolftir ",
+        "rating":"3.5",
+        "email": "Sherwood@rosamond.me",
+        "picture": "https://images.unsplash.com/photo-1601455763557-db1bea8a9a5a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjJ8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",       
+        "comment":"Jay from Caught on Camera updated our current cctv system professionally and expertly, when the original installation company said it couldn't be done and with a very friendly manner. He talked us through the update with instructions we could understand. Can't rate him highly enough. Very fair pricing considering he could have told us the whole system needed replacing. Very trustworthy."
+    },
+    {
+        "id": "10",
+        "name": "Glenna Reichert",
+        "rating":"4",
+        "email": "Chaim_McDermott@dana.io",
+        "picture": "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTR8fHVzZXJ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+        "comment":"I am so very pleased and delighted with my new CCTV system. From the original visit to quote and spec to the installation Jason and his team of experts were superb. Professional, courteous and such a clean and tidy installation. I can’t recommend Caught on Camera highly enough."
+    }
+
+]
