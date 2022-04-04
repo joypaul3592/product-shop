@@ -5,14 +5,14 @@ import { useNavigate } from 'react-router-dom';
 import './Home.css'
 
 const Home = () => {
-    const naviget = useNavigate()
+    const naviget = useNavigate();
     const [reviews, setReviews] = useReviews();
     return (
         <div className="header-container">
             <div className='bg-gray-900  items-center justify-between home-container'>
                 <div className="text-white text-info">
                     <h1 className='text-7xl mb-10 font-semibold font-mono text-amber-500 '> <span className=' text-green-200'>Capture</span> <br /> Your Moment</h1>
-                    <h2 className='text-xl mt-2 mb-6 text-amber-300 tracking-widest opacity-70'>With This beautyFull Camera</h2>
+                    <h2 className='text-xl mt-2 mb-6 text-amber-300 tracking-widest opacity-70'>With This Beautiful Camera</h2>
                     <p>"Designing professional cameras is important to keep in mind several ergonomic and functional <br />
                         requirements coming from professional photographers. To fit these requirements, we start our design <br />
                         research from technical layout developing new ideas under the point of view of ergonomics, function, and style. <br />
