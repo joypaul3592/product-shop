@@ -8,6 +8,7 @@ import Dashbord from './Components/Dashbord/Dashbord';
 import Blog from './Components/Blog/Blog';
 import About from './Components/About/About';
 import ErrorPage from './Components/ErrorPage/ErrorPage';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           <Route path="*" element={<ErrorPage></ErrorPage>} />
         </Routes>
       </>
+      <Footer></Footer>
     </div>
   );
 }
