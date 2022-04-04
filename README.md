@@ -1,6 +1,6 @@
 # Cameratak
 
-### This project live link available here : [Cameratak.com](https://clever-kleicha-d034c3.netlify.app).
+### This project live link available here : [Cameratak.com](https://clever-kleicha-d034c3.netlify.app)
 
 ## Feature of the project:
 
@@ -9,6 +9,6 @@
 - Product visuals and descriptions.
 - Relevant, authoritative website content.
 
-## Available Link
+## Available Link Site
 
 ### [https://clever-kleicha-d034c3.netlify.app](https://clever-kleicha-d034c3.netlify.app)
