@@ -2,8 +2,8 @@ import React from 'react';
 
 const ReviewCard = ({ review }) => {
     return (
-        <div className="bg-gray-500 w-1/2 my-16  mx-auto rounded shadow-lg">
-            <div className=' bg-gray-100  mx-auto p-4 my-8  rounded shadow-lg '>
+        <div className="bg-gray-500 w-1/2 mb-16  mx-auto rounded shadow-lg">
+            <div className=' bg-gray-100  mx-auto p-4 my-8 mb-0 mt-0 rounded shadow-lg '>
                 <div className="review-header flex justify-between items-center">
                     <img className='w-16 rounded h-16' src={review.picture} alt="" />
                     <h1 className='text-2xl font-bold font-mono'>{review.name}</h1>

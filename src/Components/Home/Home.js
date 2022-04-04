@@ -1,7 +1,11 @@
 import React from 'react';
+import useReviews from '../../Hooks/useReviews';
+import ReviewCard from '../ReviewCard/ReviewCard';
 import './Home.css'
 
 const Home = () => {
+
+    const [reviews, setReviews] = useReviews();
     return (
         <div className="header-container">
             <div className='bg-gray-900  items-center justify-between home-container'>
@@ -19,8 +23,13 @@ const Home = () => {
                 </div>
             </div>
             <div className="review-container bg-slate-600 py-12">
-                <h1 className='text-3xl text-center font-semibold text-green-100 '>Ous Customars Say's</h1>
-
+                <h1 className='text-3xl text-center font-semibold text-green-100 mb-16'>Ous Customars Say's</h1>
+                {
+                    reviews.slice(0, 3).map(review => <ReviewCard key={review.id} review={review}></ReviewCard>)
+                }
+                <div className="text-center">
+                    <button className='px-6 py-2 my-5 font-semibold rounded bg-amber-500'>See All</button>
+                </div>
             </div>
         </div>
 

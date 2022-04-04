@@ -1,17 +1,11 @@
-import React, { useEffect, useState } from 'react';
+import useReviews from '../../Hooks/useReviews';
 import ReviewCard from '../ReviewCard/ReviewCard';
 
 const Review = () => {
-    const [reviews, setReviews] = useState([])
-
-    useEffect(() => {
-        fetch('review.json')
-            .then(res => res.json())
-            .then(data => setReviews(data))
-    }, [0])
+    const [reviews, setReviews] = useReviews();
 
     return (
-        <div>
+        <div className=' bg-slate-700 py-16'>
             {
                 reviews.map(review => <ReviewCard key={review.id} review={review}></ReviewCard>)
             }
