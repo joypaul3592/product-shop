@@ -17,14 +17,14 @@ const Home = () => {
                         requirements coming from professional photographers. To fit these requirements, we start our design <br />
                         research from technical layout developing new ideas under the point of view of ergonomics, function, and style. <br />
                         The goal is to finalize them into an innovative but functional product."</p>
-                    <button className='px-6 py-2 my-5 font-semibold rounded bg-amber-500'>Learn More</button>
+                    <button onClick={() => naviget('/dashbord')} className='px-6 py-2 my-5 font-semibold rounded bg-amber-500'>Learn More</button>
                 </div>
                 <div className="img-container ">
                     <img src="https://freepngimg.com/thumb/camera/24673-5-photo-camera.png" alt="" />
                 </div>
             </div>
             <div className="review-container bg-slate-600 py-12">
-                <h1 className='text-3xl text-center font-semibold text-green-100 mb-16'>Ous Customars Say's</h1>
+                <h1 className='text-3xl text-center font-semibold text-green-100 mb-16'>Ous Customer Say's</h1>
                 {
                     reviews.slice(0, 3).map(review => <ReviewCard key={review.id} review={review}></ReviewCard>)
                 }

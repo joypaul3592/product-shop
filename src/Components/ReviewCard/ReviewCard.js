@@ -7,7 +7,7 @@ const ReviewCard = ({ review }) => {
                 <div className="review-header flex justify-between items-center">
                     <img className='w-16 rounded h-16 mr-2' src={review.picture} alt="" />
                     <h1 className='text-2xl font-bold font-mono'>{review.name}</h1>
-                    <p className=' font-sans font-semibold'> <span className='text-gray-500'>Rating:</span>  {review.rating}</p>
+                    <p className=' font-sans font-semibold'> <span className='text-gray-500'>Rating:</span>   {review.rating}</p>
                 </div>
             </div>
             <div className="review-info p-5 text-white shadow-lg">
