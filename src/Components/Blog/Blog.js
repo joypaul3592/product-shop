@@ -3,7 +3,7 @@ import React from 'react';
 const Blog = () => {
     return (
         <div className="blog-container bg-gray-900 py-64">
-            <div className='px-16  w-8/12 mx-auto'>
+            <div className='px-0 md:px-16 w-10/12  md:w-8/12 mx-auto'>
                 <div className="bg-gray-600 p-5 rounded mb-20 text-white shadow-lg">
                     <h1 className='w-full bg-gray-200 p-2 text-black text-xl font-mono rounded shadow-lg mb-4'>What is Context Api?</h1>
                     <p>Context API is React API that can solve a lot of problems, that modern applications face related to state management. Modern applications brack the site into smaller components. This small components need some data to work properly. That why we will have to pass data through props from the parent component to the child component. Sometimes props is become too complicated  and it slow down our web application. This new Context API solves major problem  of prop drilling.The Context API can used to share data with multiple components, without passing data through props manually.</p>
