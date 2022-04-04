@@ -1,6 +1,6 @@
 # Cameratak
 
-This project live link available here : [Cameratak.com](https://github.com/facebook/create-react-app).
+### This project live link available here : [Cameratak.com](https://clever-kleicha-d034c3.netlify.app).
 
 ## Feature of the project:
 
@@ -11,4 +11,4 @@ This project live link available here : [Cameratak.com](https://github.com/faceb
 
 ## Available Link
 
-### [https://github.com/facebook/create-react-app](https://github.com/facebook/create-react-app)
+### [https://clever-kleicha-d034c3.netlify.app](https://clever-kleicha-d034c3.netlify.app)
