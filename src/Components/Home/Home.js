@@ -1,10 +1,11 @@
 import React from 'react';
 import useReviews from '../../Hooks/useReviews';
 import ReviewCard from '../ReviewCard/ReviewCard';
+import { useNavigate } from 'react-router-dom';
 import './Home.css'
 
 const Home = () => {
-
+    const naviget = useNavigate()
     const [reviews, setReviews] = useReviews();
     return (
         <div className="header-container">
@@ -28,7 +29,7 @@ const Home = () => {
                     reviews.slice(0, 3).map(review => <ReviewCard key={review.id} review={review}></ReviewCard>)
                 }
                 <div className="text-center">
-                    <button className='px-6 py-2 my-5 font-semibold rounded bg-amber-500'>See All</button>
+                    <button onClick={() => naviget('/review')} className='px-6 py-2 my-5 font-semibold rounded bg-amber-500'>See All Reviews</button>
                 </div>
             </div>
         </div>
